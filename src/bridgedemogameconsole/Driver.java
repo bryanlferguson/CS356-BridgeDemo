@@ -1,4 +1,4 @@
-package bridgedemo;
+package bridgedemogameconsole;
 
 public class Driver {
 
@@ -20,6 +20,8 @@ public class Driver {
 		ps.leftButtonPress();
 		ps.rightButtonPress();
 		ps.bottomButtonPress();
+		ps.startButtonPressed();
+		ps.startButtonPressed();
 		ps.startButtonPressed();
 	}
 

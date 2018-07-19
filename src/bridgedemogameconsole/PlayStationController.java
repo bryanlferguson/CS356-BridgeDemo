@@ -1,4 +1,4 @@
-package bridgedemo;
+package bridgedemogameconsole;
 
 public class PlayStationController extends ConsoleController {
 

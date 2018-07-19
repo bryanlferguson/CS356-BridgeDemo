@@ -1,4 +1,4 @@
-package bridgedemo;
+package bridgedemoshape;
 
 public interface ShapeDrawer {
 	public void drawCircle(double x, double y, double radius);

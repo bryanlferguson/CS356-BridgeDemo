@@ -1,4 +1,4 @@
-package bridgedemo;
+package bridgedemogameconsole;
 
 public abstract class GameConsole {
 	

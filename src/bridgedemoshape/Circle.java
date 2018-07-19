@@ -1,4 +1,4 @@
-package bridgedemo;
+package bridgedemoshape;
 
 public class Circle extends Shape{
 	

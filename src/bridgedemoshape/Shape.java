@@ -1,4 +1,4 @@
-package bridgedemo;
+package bridgedemoshape;
 
 public abstract class Shape {
 	protected ShapeDrawer shapedrawer;

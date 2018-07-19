@@ -1,4 +1,4 @@
-package bridgedemo;
+package bridgedemogameconsole;
 
 public class XBox extends GameConsole{
 
