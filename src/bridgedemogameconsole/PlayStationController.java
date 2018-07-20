@@ -1,6 +1,6 @@
 package bridgedemogameconsole;
 
-public class PlayStationController extends ConsoleController {
+public class PlayStationController extends Controller {
 
 	public PlayStationController(GameConsole console) {
 		super(console);

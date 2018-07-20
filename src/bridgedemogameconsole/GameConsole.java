@@ -1,5 +1,8 @@
 package bridgedemogameconsole;
 
+/*
+ * This class is the initial abstraction.
+ */
 public abstract class GameConsole {
 	
 	public boolean gamePaused = false, gameLaunched = false;

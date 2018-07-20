@@ -1,10 +1,13 @@
 package bridgedemogameconsole;
 
+/*
+ * Driver Class
+ */
 public class Driver {
 
 	public static void main(String[] args) {
-		ConsoleController xbox = new XBoxController(new XBox());
-		ConsoleController ps = new PlayStationController(new PlayStation());
+		Controller xbox = new XBoxController(new XBox());
+		Controller ps = new PlayStationController(new PlayStation());
 		
 		xbox.openAppStore();
 		xbox.playGame("Halo", 2);

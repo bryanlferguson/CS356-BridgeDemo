@@ -1,6 +1,6 @@
 package bridgedemogameconsole;
 
-public class XBoxController extends ConsoleController{
+public class XBoxController extends Controller{
 	
 	public XBoxController(GameConsole console) {
 		super(console);

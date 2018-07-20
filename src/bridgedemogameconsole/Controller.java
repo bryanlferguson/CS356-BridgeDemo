@@ -1,9 +1,13 @@
 package bridgedemogameconsole;
 
-public abstract class ConsoleController {
+/*
+ * This class is the refined abstraction
+ */
+public abstract class Controller {
+	//This is the "bridge"
 	protected GameConsole console;
 	
-	public ConsoleController(GameConsole console) {
+	public Controller(GameConsole console) {
 		this.console = console; 
 	}
 	
